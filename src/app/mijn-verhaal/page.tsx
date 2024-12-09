@@ -1,4 +1,3 @@
-import React from "react";
 import Markdown from "markdown-to-jsx";
 import { getMarkdownContent } from "@/lib/markdown";
 
@@ -26,4 +25,4 @@ export default function VerhaalPage() {
       </main>
     </div>
   );
-} 
+}

@@ -66,12 +66,13 @@ export default function HomePage() {
             </h1>
             <p className="text-lg text-gray-300">
               Deze website is gemaakt om het werk van mijn grootvader Jaap Wiebrens te eren.
-              Jaap was geobsedeerd met het archief en maakte er altijd tijd voor. 
+              Jaap was geobsedeerd met het archief en maakte er altijd tijd voor.
+              </p> 
             <p>
                 Zijn toewijding aan het archief is ongekend en op deze wijze willen we zijn werk eren.
               </p>
             <p>
-              </p>Wiebrens.com is er om het werk van Jaap Wiebrens te delen met de wereld.
+              Wiebrens.com is er om het werk van Jaap Wiebrens te delen met de wereld.
             </p>
           </div>
         </section>
