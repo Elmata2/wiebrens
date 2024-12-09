@@ -1,3 +1,10 @@
+---
+title: Het verhaal van Jaap Wiebrens
+date: 2024-03-21
+---
+
+
+
 **MIJN LEVENS VERHAAL OPGESCHREVEN vanaf 1930**
 
 op 17 mei 1930 werd ik te Brielle geboren aan boord van de "Spes

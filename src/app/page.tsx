@@ -31,7 +31,7 @@ export default function HomePage() {
               className="text-white hover:text-white hover:bg-gray-800"
               asChild
             >
-              <Link href="/mijn_verhaal">Het verhaal van Jaap Wiebrens</Link>
+              <Link href="/mijn-verhaal">Het verhaal van Jaap Wiebrens</Link>
             </Button>
             <Button
               variant="ghost"
